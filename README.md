@@ -1,2 +1,2 @@
 # primoesercizio_19102021
-Primo esercizio JS
+Esercizi JS 19102021
